@@ -1,3 +1,7 @@
 1) Explique a importância do surgimento do HTML e da World Wide Web no contexto da evolução da internet. Como essas tecnologias mudaram a forma como a informação é compartilhada globalmente?
 
+A adoção de HTML adicionou uma camada de universalidade à Internet, permitindo que navegadores e dispositivos diferentes tivessem acesso a uma mesma página e seu conteúdo. Além disso, tornou possível a publicação de informação melhor estruturada que aquela até então disponível, e sua propagação através do uso de hyperlinks.
 
+Por sua vez, a WWW possibilitou o compartilhamento global de informação, assim como facilitou o acesso aos dados compartilhados, ao utilizar HTML como estrutura de suporte e disponibilizar interfaces gráficas para leigos.
+
+Ao unir estes dois elementos, foi possível padronizar e estruturar o conteúdo disponível na Internet, e permitir seu compartilhamento e navegação em tempo real, levando ao crescimento explosivo da WWW.
